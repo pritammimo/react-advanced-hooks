@@ -1,7 +1,7 @@
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 
 import Mainpage from "./components/mainpage";
-import Deferredhooks from "./components/deferredhooks";
+import Deferredhooks from "./deferredhooks/deferredhooks";
 
 function App() {
   return (
